@@ -1,0 +1,1 @@
+# assatas-affirmations
