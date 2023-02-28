@@ -1,0 +1,59 @@
+body {
+    font-family: Georgia, Times, 'Times New Roman', serif;
+    background: url(https://images.squarespace-cdn.com/content/v1/5e875f6f608bdc72a92cea19/1587505875307-74R0OO4U2131R9XGHA9F/ASSATA_QUOTE.png);
+    background-repeat: no-repeat;
+}
+
+
+p {
+    background-color: gainsboro; opacity:0.9;
+    margin-bottom: 10px;
+    margin-left: 1em;
+}
+
+form {
+    min-width: 300px;
+    max-width: 500px;
+    margin: 0 auto;
+    background-color: gainsboro; opacity:0.85;
+    border-radius: 30px;
+}
+
+input, textarea {
+    background-color:#D0F0C0;
+    font-weight: bold;
+    font-family: Georgia, Times, 'Times New Roman', serif;
+    padding: 5px;
+    border-radius: 30px;
+}
+
+fieldset {
+    border: 1px solid #D0F0C0;
+}
+
+label {
+    display: block;
+    margin: 15px;
+}
+
+textarea {
+    width: 100%;
+}
+
+.heading {
+    text-align: center;
+}
+
+.info {
+    width: 100%;
+}
+
+.submit{
+    margin: 1em auto;
+}
+
+li {
+    font-size: 12px;
+    font-style: italic;
+    margin-left: 2em;
+}
