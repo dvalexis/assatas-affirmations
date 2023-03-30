@@ -1,3 +1,10 @@
+h1 {
+    background-color: gainsboro; opacity:0.9;
+    width: 500px;
+    margin: auto;
+    border-radius: 30px;
+}
+
 body {
     font-family: Georgia, Times, 'Times New Roman', serif;
     background: url(https://images.squarespace-cdn.com/content/v1/5e875f6f608bdc72a92cea19/1587505875307-74R0OO4U2131R9XGHA9F/ASSATA_QUOTE.png);
@@ -11,7 +18,12 @@ body {
 p {
     background-color: gainsboro; opacity:0.9;
     margin-bottom: 10px;
-    margin-left: 1em;
+    border-radius: 30px;
+}
+
+#description {
+    width: 500px;
+    margin: 20px auto;
 }
 
 form {
@@ -52,7 +64,8 @@ textarea {
 }
 
 .submit{
-    margin: 1em auto;
+    padding: 15px;
+    width: 100%;
 }
 
 li {
