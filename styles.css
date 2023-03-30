@@ -2,6 +2,9 @@ body {
     font-family: Georgia, Times, 'Times New Roman', serif;
     background: url(https://images.squarespace-cdn.com/content/v1/5e875f6f608bdc72a92cea19/1587505875307-74R0OO4U2131R9XGHA9F/ASSATA_QUOTE.png);
     background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 70%;
+    background-position: center;
 }
 
 
