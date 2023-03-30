@@ -10,7 +10,7 @@ body {
     background: url(https://images.squarespace-cdn.com/content/v1/5e875f6f608bdc72a92cea19/1587505875307-74R0OO4U2131R9XGHA9F/ASSATA_QUOTE.png);
     background-repeat: no-repeat;
     background-attachment: fixed;
-    background-size: 70%;
+    background-size: 50%;
     background-position: center;
 }
 
@@ -66,6 +66,7 @@ textarea {
 .submit{
     padding: 15px;
     width: 100%;
+    margin-left: 
 }
 
 li {
