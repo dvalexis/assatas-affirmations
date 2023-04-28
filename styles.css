@@ -10,7 +10,7 @@ body {
     background: url(https://images.squarespace-cdn.com/content/v1/5e875f6f608bdc72a92cea19/1587505875307-74R0OO4U2131R9XGHA9F/ASSATA_QUOTE.png);
     background-repeat: no-repeat;
     background-attachment: fixed;
-    background-size: 50%;
+    background-size: contain;
     background-position: center;
 }
 
@@ -73,4 +73,10 @@ li {
     font-size: 12px;
     font-style: italic;
     margin-left: 2em;
+}
+
+@media (max-width: 28.75em) {
+    #title, #description {
+        width: 350px;
+    }
 }
