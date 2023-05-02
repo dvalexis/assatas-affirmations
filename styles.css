@@ -66,7 +66,10 @@ textarea {
 .submit{
     padding: 15px;
     width: 100%;
-    margin-left: 
+    background-color: #D0F0C0;
+    font-weight: bold;
+    font-family: Georgia, Times, 'Times New Roman', serif;
+    border-radius: 30px;
 }
 
 li {
